@@ -1,0 +1,8 @@
+**/data/database.json
+**/data/action.log
+**/data/config.json
+**/data/*_list.json
+**/data/*_raw.json
+**/data/*_abstract.md
+**/__pycache__/
+*.pyc

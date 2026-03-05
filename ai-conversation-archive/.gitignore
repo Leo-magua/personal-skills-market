@@ -1,0 +1,12 @@
+# 本地数据与运行产物，不纳入版本库备份
+data/database.json
+data/action.log
+data/config.json
+data/*_list.json
+data/*_raw.json
+data/*_abstract.md
+
+# Python
+__pycache__/
+*.pyc
+*.pyo

@@ -1,0 +1,4 @@
+# UI metadata for skill list / chips (OpenClaw/Codex)
+display_name: AI 对话本地归档
+short_description: 将各 AI 平台对话同步到本地，维护 database.json 并产出 JSON/MD 摘要；仅通过脚本执行批处理，禁止自写循环。
+default_prompt: 请按 SKILL.md 的流程运行 sync_index、run_tasks；若出现 REQUIRES_BROWSER_FETCH，则用浏览器抓取该会话并保存为指定路径的 JSON 后重跑 run_tasks。
